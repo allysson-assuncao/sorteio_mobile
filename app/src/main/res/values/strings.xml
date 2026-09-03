@@ -45,4 +45,8 @@
     </string>
     <string name="digite_um_nome">Digite um nome</string>
     <string name="sorteio_de_nomes">Sorteio de Nomes</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="nomes_cadastrados">Nomes Cadastrados</string>
+    <string name="nenhum_nome_adicionado">Nenhum nome adicionado</string>
+    <string name="sortear">Sortear</string>
 </resources>
