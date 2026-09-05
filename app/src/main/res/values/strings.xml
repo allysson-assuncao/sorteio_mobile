@@ -49,4 +49,7 @@
     <string name="nomes_cadastrados">Nomes Cadastrados</string>
     <string name="nenhum_nome_adicionado">Nenhum nome adicionado</string>
     <string name="sortear">Sortear</string>
+    <string name="sorteado">🎉 SORTEADO!🎉 </string>
+    <string name="nome">Nome</string>
+    <string name="voltar">VOLTAR</string>
 </resources>
